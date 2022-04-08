@@ -1,0 +1,4 @@
+﻿  MainWindow.cpp
+D:\Vrij\Education\Fullsail_Classes\Software Engineering\Lab_Minesweeper\Lab_Minesweeper\MainWindow.cpp(110,29): warning C4018: '<': signed/unsigned mismatch
+D:\Vrij\Education\Fullsail_Classes\Software Engineering\Lab_Minesweeper\Lab_Minesweeper\MainWindow.cpp(110,66): warning C4018: '<': signed/unsigned mismatch
+  Lab_Minesweeper.vcxproj -> D:\Vrij\Education\Fullsail_Classes\Software Engineering\Lab_Minesweeper\Debug\Lab_Minesweeper.exe
